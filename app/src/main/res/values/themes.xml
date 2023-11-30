@@ -5,5 +5,9 @@
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
+    <style name="SplashTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/logo_miquiz</item>
+    </style>
+
     <style name="Theme.MiQuizActivity" parent="Base.Theme.MiQuizActivity" />
 </resources>
